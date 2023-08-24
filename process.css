@@ -1,0 +1,24 @@
+
+.header {
+    background-color: rgb(13, 76, 211);
+    padding: 5px;
+    text-align: center;
+}
+
+.topnov {
+    overflow: hidden;
+    background-color: rgb(7, 99, 136);
+}
+.topnov a {
+    float: left;
+    display: block;
+    color: yellow;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+.topnov a:hover {
+    background-color: green;
+    color: black;
+}
